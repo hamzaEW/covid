@@ -1,7 +1,7 @@
 import 'dart:async';
 
 
-import 'package:covid_app/bottomBar.dart';
+import '../widgets/bottomBar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:page_transition/page_transition.dart';
